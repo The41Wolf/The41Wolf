@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @The41Wolf
 - 👀 I’m interested in Ethical Hacking
 - 🌱 I’m currently learning about how the Internet works and how people interact with it.
-- 💞️ I’m looking to collaborate on nothing right now
 - 📫 the41wolf@gmail.com
 
 <!---
